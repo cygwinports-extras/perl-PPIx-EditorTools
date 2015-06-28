@@ -2,8 +2,10 @@ CPAN_AUTHOR=szabgab
 inherit perl
 
 NAME="perl-PPIx-EditorTools"
-VERSION=0.18
+VERSION=0.19
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl code manipulation module"
 DESCRIPTION="Base class and utility methods for manipulating Perl via PPI."
+
+ARCH=noarch
